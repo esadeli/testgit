@@ -17,7 +17,7 @@
 				<th>ID</th>
 				<th>Kode Item</th>
 				<th>Item</th>
-				<th>Jumlah</th>
+				<th>Quantity</th>
 				<th>Surat Permintaan Barang</th>
 				<th>Staff - Penanggung Jawab</th>
 				<th>Master Data</th>
