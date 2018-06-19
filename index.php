@@ -15,8 +15,8 @@
 		<table>
 			<tr>
 				<th>ID</th>
-				<th>Kode Barang</th>
-				<th>Barang</th>
+				<th>Kode Item</th>
+				<th>Item</th>
 				<th>Jumlah</th>
 				<th>Surat Permintaan Barang</th>
 				<th>Staff - Penanggung Jawab</th>
