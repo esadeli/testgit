@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Sistem Gudang Sederhana - Extension</title>
+		<title>Simple Warehouse System - Extension</title>
 		<style>
 			table tr td, th {
 				border : 1px solid;
@@ -15,13 +15,13 @@
 		<table>
 			<tr>
 				<th>ID</th>
-				<th>Kode Item</th>
-				<th>Item</th>
-				<th>Jumlah</th>
-				<th>Surat Permintaan Barang</th>
-				<th>Staff - Penanggung Jawab</th>
+				<th>Item Code</th>
+				<th>Description</th>
+				<th>Quantity</th>
+				<th>Good Receipt Document</th>
+				<th>Responsible Staff</th>
 				<th>Master Data</th>
-				<th>Update Jumlah</th>
+				<th>Quantity Update</th>
 			</tr>
 				<?php 
 					$servername = "localhost";
