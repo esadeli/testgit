@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Sistem Gudang - Extension</title>
+		<title>Simple Warehouse System - Extension</title>
 		<style>
 			table tr td, th {
 				border : 1px solid;
@@ -19,7 +19,7 @@
 				<th>Description</th>
 				<th>Quantity</th>
 				<th>Good Receipt Document</th>
-				<th>Responsible staff</th>
+				<th>Responsible Staff</th>
 				<th>Master Data</th>
 				<th>Quantity Update</th>
 			</tr>
