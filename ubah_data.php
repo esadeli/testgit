@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Sistem Gudang Extension</title>
+		<title>Sistem Gudang Sederhana - Extension</title>
 		<style type="text/css">
 			table tr td,th{
 				border : 1px solid;
@@ -65,10 +65,10 @@
 			?>
 
 		<form method="POST" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"].'?id='.$_GET['id'])?>">
-			<label>Kode Barang</label><br>
+			<label>Kode Item</label><br>
 			<input type="inputkodebarang" name="inputkodebarang" value="<?=$kodebarang?>">
 			<br>
-			<label>Nama Barang</label><br>
+			<label>Item</label><br>
 			<input type="inputnamabarang" name="inputnamabarang" value ="<?=$namabarang?>">
 			<br>
 			<label>Jumlah Barang</label><br><?=$jumlahbarang?><br>

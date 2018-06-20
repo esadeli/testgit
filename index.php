@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Sistem Gudang - Extension</title>
+		<title>Sistem Gudang Sederhana - Extension</title>
 		<style>
 			table tr td, th {
 				border : 1px solid;
@@ -17,7 +17,7 @@
 				<th>ID</th>
 				<th>Kode Item</th>
 				<th>Item</th>
-				<th>Quantity</th>
+				<th>Jumlah</th>
 				<th>Surat Permintaan Barang</th>
 				<th>Staff - Penanggung Jawab</th>
 				<th>Master Data</th>
