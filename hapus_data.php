@@ -56,11 +56,11 @@
 			?>
 
 		<form method="POST" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"].'?id='.$_GET['id']); ?>">
-			Hapus data barang ?<br><br>
-			<label>Kode Barang :</label><?=$kodebarang?><br>
-			<label>Nama Barang :</label><?=$namabarang?><br>
-			<label>Jumlah Barang :</label><?=$jumlahbarang?><br>
-			<label>Surat Permintaan Barang :</label><?=$suratpermintaan?><br>
+			Delete data barang ?<br><br>
+			<label>Kode Item :</label><?=$kodebarang?><br>
+			<label>Item :</label><?=$namabarang?><br>
+			<label>Quantity :</label><?=$jumlahbarang?><br>
+			<label>Good Receipt :</label><?=$suratpermintaan?><br>
 			<label>Penanggung Jawab :</label><?=$penanggungjawab?><br>
 
 			<input type="submit" value="Delete">
