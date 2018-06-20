@@ -15,13 +15,13 @@
 		<table>
 			<tr>
 				<th>ID</th>
-				<th>Kode Item</th>
-				<th>Item</th>
+				<th>Item Code</th>
+				<th>Description</th>
 				<th>Quantity</th>
-				<th>Surat Permintaan Barang</th>
-				<th>Staff - Penanggung Jawab</th>
+				<th>Good Receipt Document</th>
+				<th>Responsible staff</th>
 				<th>Master Data</th>
-				<th>Update Jumlah</th>
+				<th>Quantity Update</th>
 			</tr>
 				<?php 
 					$servername = "localhost";
